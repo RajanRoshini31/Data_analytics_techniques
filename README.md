@@ -33,6 +33,15 @@ This repository contains implementations and examples of various data analytics,
 
 - **PCA/**  
   Principal Component Analysis for dimensionality reduction.
+  
+- **SVM/**  
+  Support Vector Machine algorithms for classification and regression with kernel methods.
+
+- **GNB/**  
+  Gaussian Naive Bayes classifier implementation for probabilistic classification tasks.
+
+- **MNB/**  
+  Multinomial Naive Bayes classifier suitable for discrete feature data, commonly used in text classification.
 
 - **Smoothing_tech/**  
   Data smoothing techniques to reduce noise and better observe trends, including:  
